@@ -1,0 +1,31 @@
+CustomerID,Transaction_ID,Transaction_Date,Product_SKU,Product_Description,Product_Category,Quantity,Avg_Price,Delivery_Charges,Coupon_Status
+17850,16679,1/1/2019,GGOENEBJ079499,Nest Learning Thermostat 3rd Gen-USA - Stainless Steel,Nest-USA,1,153.71,6.5,Used
+17850,16680,1/1/2019,GGOENEBJ079499,Nest Learning Thermostat 3rd Gen-USA - Stainless Steel,Nest-USA,1,153.71,6.5,Used
+17850,16681,1/1/2019,GGOEGFKQ020399,Google Laptop and Cell Phone Stickers,Office,1,2.05,6.5,Used
+17850,16682,1/1/2019,GGOEGAAB010516,Google Men's 100% Cotton Short Sleeve Hero Tee Black,Apparel,5,17.53,6.5,Not Used
+17850,16682,1/1/2019,GGOEGBJL013999,Google Canvas Tote Natural/Navy,Bags,1,16.5,6.5,Used
+17850,16682,1/1/2019,GGOEGBMJ013399,Sport Bag,Bags,15,5.15,6.5,Used
+17850,16682,1/1/2019,GGOEGDHC018299,Google 22 oz Water Bottle,Drinkware,15,3.08,6.5,Not Used
+17850,16682,1/1/2019,GGOEGDHG014499,Google Infuser-Top Water Bottle,Drinkware,15,10.31,6.5,Clicked
+17850,16682,1/1/2019,GGOEGDWC020199,Engraved Ceramic Google Mug,Drinkware,5,9.27,6.5,Used
+13047,16682,1/1/2019,GGOEGGOA017399,Maze Pen,Office,52,0.98,6.5,Used
+13047,16682,1/1/2019,GGOEGOFH020299,Galaxy Screen Cleaning Cloth,Office,31,1.99,6.5,Clicked
+13047,16682,1/1/2019,GGOEGOXQ016399,Badge Holder,Office,31,1.99,6.5,Clicked
+13047,16682,1/1/2019,GGOEYAAB031816,YouTube Men's Short Sleeve Hero Tee Black,Apparel,5,17.53,6.5,Used
+13047,16684,1/1/2019,GGOENEBQ078999,Nest Cam Outdoor Security Camera - USA,Nest-USA,2,122.77,6.5,Clicked
+13047,16684,1/1/2019,GGOENEBQ079199,Nest Protect Smoke + CO White Wired Alarm-USA,Nest-USA,1,81.5,6.5,Used
+13047,16685,1/1/2019,GGOEGAAR010714,Google Men's 100% Cotton Short Sleeve Hero Tee Red,Apparel,1,14.02,6.5,Used
+13047,16685,1/1/2019,GGOEGAEQ027913,Google Women's Short Sleeve Hero Tee White,Apparel,1,14.02,6.5,Clicked
+13047,16685,1/1/2019,GGOEGDWR015799,Red Shine 15 oz Mug,Drinkware,1,10.72,6.5,Not Used
+13047,16687,1/1/2019,GGOEGFQB013799,Compact Selfie Stick,Lifestyle,1,9.27,6.5,Clicked
+13047,16687,1/1/2019,GGOEGGOA017399,Maze Pen,Office,3,1.02,6.5,Used
+13047,16687,1/1/2019,GGOEGOAQ012899,Ballpoint LED Light Pen,Office,1,2.58,6.5,Not Used
+13047,16687,1/1/2019,GGOEGOAR021999,Color Changing Grip Pen,Office,3,1.55,6.5,Clicked
+13047,16687,1/1/2019,GGOEGOBG023599,Colored Pencil Set,Office,1,3.08,6.5,Used
+13047,16687,1/1/2019,GGOEGOLC013299,Spiral Notebook and Pen Set,Office,1,6.18,6.5,Clicked
+13047,16688,1/1/2019,GGOENEBB078899,Nest Cam Indoor Security Camera - USA,Nest-USA,1,122.77,6.5,Used
+13047,16689,1/1/2019,GGOENEBJ079499,Nest Learning Thermostat 3rd Gen-USA - Stainless Steel,Nest-USA,1,153.71,6.5,Used
+12583,16692,1/1/2019,GGOEAFKQ020599,Android Sticker Sheet Ultra Removable,Office,1,2.47,102.79,Used
+12583,16692,1/1/2019,GGOEGDHC015299,23 oz Wide Mouth Sport Bottle,Drinkware,26,8.72,102.79,Clicked
+12583,16692,1/1/2019,GGOEGFKQ020399,Google Laptop and Cell Phone Stickers,Office,1,1.64,102.79,Clicked
+12583,16692,1/1/2019,GGOEYFKQ020699,YouTube Custom Decals,Office,1,1.64,102.79,Clicked
